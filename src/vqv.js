@@ -16,6 +16,14 @@
       #VQV!'
 */
 
-const vqv = () => {};
+const vqv = (param1, param2) => {
+  if ((typeof param1 === 'string') && (typeof param2 === 'number')) { 
+    return `Oi, meu nome é ${param1}!
+Tenho ${param2} anos,
+trabalho na Trybe e mando muito em programação!
+#VQV!`;
+  }         
+  return undefined;
+};
 
 module.exports = vqv;
