@@ -138,3 +138,5 @@ describe('10 - Implemente os casos de teste e a função `createMenu`', () => {
     // Agora faça o PASSO 4 no arquivo `src/restaurant.js`.
    });
 });
+
+// Referência utilizada no código: <https://jestjs.io/pt-BR/docs/expect> 

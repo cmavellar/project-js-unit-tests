@@ -97,3 +97,4 @@ describe('9 - Implemente os casos de teste da função `getCharacter`', () => {
     expect(getCharacter("Joana")).toBeUndefined(); 
   });
 });
+// Referência de apoio: <https://jestjs.io/pt-BR/docs/expect>

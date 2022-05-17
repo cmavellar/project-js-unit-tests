@@ -50,3 +50,5 @@ describe('4 - Implemente os casos de teste para a função `circle`', () => {
     expect(circle(3).circumference).toBeCloseTo(18.84);
    });
 });
+
+// Referência para o código: <https://jestjs.io/pt-BR/docs/expect>

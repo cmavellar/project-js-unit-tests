@@ -21,3 +21,5 @@ const createStudent = (nome) => ({
 });
 
 module.exports = createStudent;
+
+// Referência para o código: <https://developer.mozilla.org/pt-BR/docs/Glossary/Callback_function>

@@ -67,3 +67,8 @@ const arrayGenerator = (type, object) => {
 // console.log(arrayGenerator('keys', { sum: 3, mult: 2, div: 1, sub: 0 }));
 
 module.exports = { calculator, arrayGenerator };
+
+// Referência de apoio: <https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/keys>
+// Referência de apoio: <https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/values>
+// Referência de apoio: <https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/entries>
+// Referência de apoio: <https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/floor>

@@ -27,3 +27,5 @@ trabalho na Trybe e mando muito em programação!
 };
 
 module.exports = vqv;
+
+// Referência de apoio: <https://www.w3schools.com/js/js_string_templates.asp>

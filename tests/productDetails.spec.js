@@ -56,3 +56,5 @@ describe('6 - Implemente os casos de teste para a função `productDetails`', ()
 
   });
 });
+// Referência de apoio: <https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray>
+// Referência de apoio: <https://jestjs.io/pt-BR/docs/expect>

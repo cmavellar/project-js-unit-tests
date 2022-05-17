@@ -31,4 +31,6 @@ const average = (array) => {
 // console.log(average([4.6, 4.6, 4.6]));
 // console.log(average([['um', 'dois', 'tres']]));
 
-module.exports = average; 
+module.exports = average;  
+
+// Referência para o código: <https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/round>

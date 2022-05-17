@@ -117,4 +117,9 @@ const createMenu = (objeto) => {
 
 // console.log(createMenu({ food: { coxinha: 3.9, sopa: 9.9 }, drink: { agua: 3.9, cerveja: 6.9 } }));
 
+// Referência utilizada no código: <https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/includes>
+// Referência utilizada no código: <https://developer.mozilla.org/pt-BR/docs/Glossary/Callback_function>
+// Referência utilizada no código: <https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/keys>
+// Referência utilizada no código: <https://www.w3schools.com/js/js_arrow_function.asp>
+
 module.exports = createMenu;
